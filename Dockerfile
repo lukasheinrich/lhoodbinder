@@ -1,1 +1,1 @@
-FROM lukasheinrich/contourdemo:latest
+FROM lukasheinrich/contourdemo:v001
